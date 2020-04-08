@@ -13,24 +13,15 @@
  
  Reference:
  
- @article{ao2018mining,
- 
-  title={Mining precise-positioning episode rules from event sequences},
-  
-  author={Ao, Xiang and Luo, Ping and Wang, Jin and Zhuang, Fuzhen and He, Qing},
-  
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  
-  volume={30},
-  
-  number={3},
-  
-  pages={530--543},
-  
-  year={2018},
-  
-  publisher={IEEE}
-  
+ @article{ao2018mining, 
+  title={Mining precise-positioning episode rules from event sequences},  
+  author={Ao, Xiang and Luo, Ping and Wang, Jin and Zhuang, Fuzhen and He, Qing},  
+  journal={IEEE Transactions on Knowledge and Data Engineering},  
+  volume={30},  
+  number={3},  
+  pages={530--543},  
+  year={2018},  
+  publisher={IEEE}  
 }
  
  
