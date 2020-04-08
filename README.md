@@ -7,9 +7,9 @@
  
  ## Paper Info:
  
- Xiang Ao*, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. IEEE Transactions on Data Engineering (IEEE TKDE), 30(3) : 530-543, 2018.
+ [Xiang Ao*, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. IEEE Transactions on Data Engineering (IEEE TKDE), 30(3) : 530-543, 2018.](https://ieeexplore.ieee.org/document/8107542)
  
- Xiang Ao, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE 2017, poster).
+ [Xiang Ao, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE 2017, poster).](https://ieeexplore.ieee.org/document/7929941)
  
  ## Bibtex:
  
