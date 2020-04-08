@@ -5,13 +5,13 @@
  
  follow the instructions in /src/run/Run*.java
  
- Paper:
+ ## Paper Info:
  
  Xiang Ao*, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. IEEE Transactions on Data Engineering (IEEE TKDE), 30(3) : 530-543, 2018.
  
  Xiang Ao, Ping Luo, Jin Wang, Fuzhen Zhuang, Qing He. Mining Precise-positioning Episode Rules from Event Sequences. In Proceedings of the 33rd IEEE International Conference on Data Engineering (ICDE 2017, poster).
  
- Reference:
+ ## Bibtex:
  
  @article{ao2018mining,  
   title={Mining precise-positioning episode rules from event sequences},  
