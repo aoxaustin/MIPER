@@ -13,7 +13,7 @@
  
  Reference:
  
- @article{ao2018mining, 
+ @article{ao2018mining,  
   title={Mining precise-positioning episode rules from event sequences},  
   author={Ao, Xiang and Luo, Ping and Wang, Jin and Zhuang, Fuzhen and He, Qing},  
   journal={IEEE Transactions on Knowledge and Data Engineering},  
